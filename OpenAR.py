@@ -208,7 +208,7 @@ def webdet():
       # # cv2.imshow('ImageTarget', imgTarget)
       # cv2.imshow('WebCam', imgWebcam)
       # cv2.imshow('First Frame of video', myVid)
-       if cv2.waitKey(1) & 0xFF ==ord('q'):
+      if cv2.waitKey(1) & 0xFF ==ord('q'):
          break
          cv2.destroyAllWindows()
       else:
