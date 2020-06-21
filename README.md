@@ -33,3 +33,5 @@ Connect with me:
 LinkedIn : https://github.com/ParijatDhar97
 Portfolio : https://parijatdhar97.github.io/iamparijatdhar/
 
+Note** Please read the Localrequirements.md file for viewing the app in local machine.
+
