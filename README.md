@@ -14,8 +14,6 @@ Medical Facilities : From operating MRI equipment to performing complex surgerie
 Retail : World famous motorcycle brand Harley Davidson is one great instance of a brand making the most of this trend, by developing an an AR app that shoppers can use in-store.
 Design and Modelling : From interior design to architecture and construction, AR is helping professionals visualize their final products during the creative process. and many more...
 
-Video describing this project:
-https://drive.google.com/file/d/1c25qxV1WlVGS_Ta4IQ16ODCNz4YaVXkf/view?usp=sharing
 
 Problems faced:
 While creating the detector and the key points for the images, we faced some problems like the key points were able to get detected by the ORB detector for the target image but for the webcam images, it was failing to detect major key points. So we had to make some adjustments in the code and in the length function, after that it was able to detect the key points and its efficiency greater than 80% which is quite a good percentage to proceed with the project.  
